@@ -29,14 +29,14 @@
 
 [![Twitter: Godwinastric](https://img.shields.io/twitter/follow/dheerajkumar?style=social)](https://twitter.com/Godwinastric_)
 [![Linkedin: dheeraj-kumar-52b78ba2/](https://img.shields.io/badge/-dheerajkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheeraj-kumar-52b78ba2/)]
-[![GitHub: dk77436](https://img.shields.io/github/followers/santoshkatageri?label=follow&style=social)](https://github.com/dk77436)
+[![GitHub: dk77436](https://img.shields.io/github/followers/dheeraji?label=follow&style=social)](https://github.com/dk77436)
 
 <!--
-<a href="https://github.com/santoshkatageri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkatageri&theme=light&hide_langs_below=1" />
+<a href="https://github.com/dk77436">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk77436&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/santoshkatageri">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshkatageri&show_icons=true&theme=light&line_height=27" alt="Santosh's github stats"/>
+<a href="https://github.com/dk77436">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dk77436&show_icons=true&theme=light&line_height=27" alt="dheeraj's github stats"/>
 </a>
 -->
 
