@@ -3,16 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshkatageri&label=Views&color=blue&style=plastic" alt="santoshkatageri" /> </p>
 
 <a href="https://twitter.com">
-  <img align="left" alt="Sandeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="dheeraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="[https://www.linkedin.com/in/sandeep-narvade-b72671205/]">
-  <img align="left" alt="Santosh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="[https://www.linkedin.com/in/https://twitter.com/Godwinastric_/]">
+  <img align="left" alt="dheeraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="[https://github.com/Sandeep2319]">
+<a href="[https://github.com/dk77436]">
   <img align="left" alt="'s Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/chetan.narvade.5/">
-  <img align="left" alt="Santosh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/https://www.facebook.com/dk77436/">
+  <img align="left" alt="dheeraj's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br/>
