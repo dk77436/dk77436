@@ -23,12 +23,12 @@
 - 🌱 I’m currently learning more about Devops.
 - 👯 I’m looking to collaborate on software development.
 - 🤔 I’m looking for help with Open Source Project.
-- 📫 How to reach me: [Linkedin: Sandeep2319](https://www.linkedin.com/in/sandeep-narvade-b72671205/)  
+- 📫 How to reach me: [Linkedin: Dheeraj Kumar Gond](https://www.linkedin.com/in/dheeraj-kumar-52b78ba2/)  
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love photography and Travelling.
 
-[![Twitter: narvade55089](https://img.shields.io/twitter/follow/narvad?style=social)](https://twitter.com/Godwinastric_)
-[![Linkedin: dheeraj-kumar-52b78ba2/](https://img.shields.io/badge/-SandeepNarvade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheeraj-kumar-52b78ba2//)]
+[![Twitter: Godwinastric](https://img.shields.io/twitter/follow/dheerajkumar?style=social)](https://twitter.com/Godwinastric_)
+[![Linkedin: dheeraj-kumar-52b78ba2/](https://img.shields.io/badge/-dheerajkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheeraj-kumar-52b78ba2//)]
 [![GitHub: dk77436](https://img.shields.io/github/followers/santoshkatageri?label=follow&style=social)](https://github.com/dk77436)
 
 <!--
