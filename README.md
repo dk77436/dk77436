@@ -20,8 +20,9 @@
 
 
 - 🔭 I’m currently pursing my PG-Diploma at CDAC-ACTS in DHPCSA(High performance computing & System Administration).
+- 🌱 I’m worked at CDAC-ACTS Astric Patna in Server administrator(centos7-bharat-os)(manage server-centre responsibilities)
 - 🌱 I’m currently learning more about Devops.
-- 👯 I’m looking to collaborate on software development.
+- 👯 I’m looking to collaborate on Administration.
 - 🤔 I’m looking for help with Open Source Project.
 - 📫 How to reach me: [Linkedin: Dheeraj Kumar Gond](https://www.linkedin.com/in/dheeraj-kumar-52b78ba2/)  
 - 😄 Pronouns: He/His
