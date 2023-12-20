@@ -28,7 +28,7 @@
 - ⚡ Fun fact: I love photography and Travelling.
 
 [![Twitter: Godwinastric](https://img.shields.io/twitter/follow/dheerajkumar?style=social)](https://twitter.com/Godwinastric_)
-[![Linkedin: dheeraj-kumar-52b78ba2/](https://img.shields.io/badge/-dheerajkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheeraj-kumar-52b78ba2//)]
+[![Linkedin: dheeraj-kumar-52b78ba2/](https://img.shields.io/badge/-dheerajkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheeraj-kumar-52b78ba2/)]
 [![GitHub: dk77436](https://img.shields.io/github/followers/santoshkatageri?label=follow&style=social)](https://github.com/dk77436)
 
 <!--
