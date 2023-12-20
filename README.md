@@ -5,10 +5,10 @@
 <a href="https://twitter.com">
   <img align="left" alt="dheeraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="[https://www.linkedin.com/in/https://www.linkedin.com/in/dheeraj-kumar-52b78ba2/]">
+<a href="[https://www.linkedin.com/in/dheeraj-kumar-52b78ba2/]">
   <img align="left" alt="dheeraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="[https://github.com/dk77436]">
+<a href="[https://github.com/dk77436/]">
   <img align="left" alt="'s Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.facebook.com/https://www.facebook.com/dk77436/">
